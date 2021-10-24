@@ -1,0 +1,25 @@
+# Managed by Composer
+/vendor/
+
+# Assets and user uploads
+/web/uploads/
+
+# PHPUnit
+/app/phpunit.xml
+/phpunit.xml
+
+# Build data
+/build/
+
+# Composer PHAR
+/composer.phar
+
+# Backup entities generated with doctrine:generate:entities command
+**/Entity/*~
+
+# Embedded web-server pid file
+/.web-server-pid
+.DS_Store
+.idea/
+docker-compose.override.yml
+data/
