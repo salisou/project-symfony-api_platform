@@ -20,11 +20,11 @@ services:
       - ./data:/data
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: sentraider_fr
+      MYSQL_DATABASE: DotEnv_test
 
   phpmyadmin:
     ports:
-      - "8001:80"
-    image: nazarpc/phpmyadmin
+      - "8080:80"
+    image: DotEnv/phpmyadmin
     depends_on:
       - mysql
