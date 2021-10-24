@@ -1,4 +1,4 @@
-# projet du cour de @api_platform et @symfony 
+# projet du cours de @api_platform et @symfony 
 
 ### Why ?
 ---
