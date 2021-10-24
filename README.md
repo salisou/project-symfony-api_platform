@@ -1,4 +1,4 @@
-# SENTRAIDER_FR
+# projet du cour de @api_platform et @symfony 
 
 ### Why ?
 ---
@@ -7,7 +7,7 @@
 ---
 
 - Apache 2.4
-- PHP 7.3
+- PHP 7.4
 - MySQL 5.7
 - Composer
 
@@ -18,8 +18,8 @@
 ---
 
 ```
-git clone https://github.com/jonathankablan/sentraider_fr.git
-cd sentraider_fr
+git clone https://github.com/project-symfony-api_pltform.git  
+cd project-symfony-api_platform
 ./install.sh
 ```
 
